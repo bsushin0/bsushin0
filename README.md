@@ -1,31 +1,35 @@
-# 🚀 Hello, I'm Sushin Bandha! 👋
+# 🚀 Hi — I’m Sushin Bandha! 👋
 
-I'm currently pursuing my degree in **Computer Science at Purdue University 🎓**, with a deep interest in **Artificial Intelligence and Machine Learning**. My ambition is to design, innovate, and manage AI-driven systems that make a meaningful impact on the world.
+I’m currently pursuing a B.S. in Artificial Intelligence at Purdue University, with a strong focus on Artificial Intelligence and Machine Learning. I enjoy building practical systems that apply ML research, and I’m always exploring new tools and approaches for solving real-world problems.
 
-At the moment, I'm actively seeking opportunities in:
-- 🌐 **Information Technology and Tech Management**
-- 🤖 **Artificial Intelligence & Machine Learning roles**
-- 🎯 **Internships and Co-Op positions**
+## 🔍 What I’m focused on now
+- Actively seeking roles in Co-Ops and Internships in:
+  - Information Technology & Tech Management
+  - Artificial Intelligence & Machine Learning
+  - Software engineering internships / co-ops
+- Building hands-on experience in ML model development, data pipelines, and deploying reproducible solutions.
 
-## 🌟 My Key Interests:
-- 🤖 **AI & Machine Learning**: I’m passionate about exploring emerging technologies and developing intelligent systems.
-- 📈 **Tech & Management**: I enjoy merging technical knowledge with strategic thinking to foster innovation.
-- ✈️ **Aviation**: I'm an avid aviation enthusiast with a long-term dream of becoming a pilot.
+## 💻 Technical Interests & Skills (high level)
+- Machine Learning & Deep Learning (model design, evaluation, experimentation)
+- Data analysis and preprocessing
+- Python ecosystem: NumPy, pandas; familiar with ML frameworks and tooling
+- Version control & collaboration: Git / GitHub
+- Cloud & deployment concepts (containers, reproducible environments)
 
-## 🚀 My Approach:
-I'm always open to learning and trying something new—I believe every opportunity is a chance to grow and evolve.
+(If you’d like specific project details, code samples, or tech stack items called out, tell me which projects to highlight and I’ll add them.)
 
-### 🏎️ A Few of My Passions:
-- **Formula 1 Racing** 🏁
-- **NFL Football** 🏈
-- **Socializing & Networking** 🗣️
-- **Outdoor Activities & Exploration** 🏞️
+## 🌟 Other interests
+- Aviation — lifelong enthusiast, long-term goal to become a pilot ✈️  
+- Formula 1 Racing 🏁  
+- NFL Football 🏈  
+- Socializing, networking, and learning from others 🗣️  
+- Outdoor activities & exploration 🏞️
 
-## 🌐 Let’s Connect:
-- 💬 **Always open to networking**: I enjoy connecting with like-minded individuals, exchanging ideas, and collaborating.
-- 🔗 [LinkedIn](www.linkedin.com/in/sushin-bandha) | 📧 [Email](Bsushin1@gmail.com)
+## 📬 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/sushin-bandha  
+- Email: mailto:Bsushin1@gmail.com  
+- GitHub: https://github.com/bsushin0
 
-Feel free to reach out—whether it's about a professional opportunity, a cool project, or simply to chat about aviation or F1!
+I’m always open to networking, collaborations, and opportunities to learn. If you have a role, project, or idea that might be a fit, please reach out!
 
-> “The future belongs to those who believe in the beauty of their dreams.” — *Eleanor Roosevelt* ✨
-
+> “The future belongs to those who believe in the beauty of their dreams.” — Eleanor Roosevelt ✨
